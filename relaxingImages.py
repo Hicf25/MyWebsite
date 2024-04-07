@@ -8,56 +8,56 @@ st.divider()
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.image('images/img_1.jpeg')
+    st.image('img_1.jpeg')
 
 with col2:
-    st.image('images/img_2.jpeg')
+    st.image('img_2.jpeg')
 
 with col3:
-    st.image('images/img_3.jpeg')
+    st.image('img_3.jpeg')
 
 
 with col1:
-    st.image('images/img_4.jpeg')
+    st.image('img_4.jpeg')
 
 with col2:
-    st.image('images/img_5.jpeg')
+    st.image('img_5.jpeg')
 
 with col3:
-    st.image('images/img_6.jpeg')
+    st.image('img_6.jpeg')
 
 with col1:
-    st.image('images/img_7.jpeg')
+    st.image('img_7.jpeg')
 
 with col2:
-    st.image('images/img_8.jpeg')
+    st.image('img_8.jpeg')
 
 with col3:
-    st.image('images/img_9.jpeg')
+    st.image('img_9.jpeg')
 
 with col1:
-    st.image('images/img_10.jpeg')
+    st.image('img_10.jpeg')
 
 with col2:
-    st.image('images/img_11.jpeg')
+    st.image('img_11.jpeg')
 
 with col3:
-    st.image('images/img_12.jpeg')
+    st.image('img_12.jpeg')
 
 with col1:
-    st.image('images/img_13.jpeg')
+    st.image('img_13.jpeg')
 
 with col2:
-    st.image('images/img_14.jpeg')
+    st.image('img_14.jpeg')
 
 with col3:
-    st.image('images/img_15.jpeg')
+    st.image('img_15.jpeg')
 
 with col1:
-    st.image('images/img_16.jpeg')
+    st.image('img_16.jpeg')
 
 with col2:
-    st.image('images/img_17.jpeg')
+    st.image('img_17.jpeg')
 
 with col3:
-    st.image('images/img_18.jpeg')
+    st.image('img_18.jpeg')
